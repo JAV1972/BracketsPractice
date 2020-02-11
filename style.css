@@ -1,7 +1,11 @@
 body {
     background: RGB(189, 22, 3);
     color: RGB(239, 198, 18);
+}
 
     /*your name here*/
 p{
     color:rgb(255,255,255);}
+img{
+    border:1pt solid #707070;
+    }
