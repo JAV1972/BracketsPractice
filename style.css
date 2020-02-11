@@ -5,3 +5,7 @@ body {
     /*your name here*/
 p{
     color:rgb(255,255,255);}
+    
+img{
+    border:2pt solid #00ff00;
+    }
